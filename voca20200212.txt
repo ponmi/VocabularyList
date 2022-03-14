@@ -5544,7 +5544,6 @@ compel
 have bearing on
 ostensibly
 unary
-<<<<<<< HEAD
 galling
 flinch
 fabled
@@ -5556,14 +5555,13 @@ bewildered
 debatable
 sow
 airworthiness
-=======
 rake up
 grandeur
 jamon
 not for nothing
 jolted awake
 grainy
->>>>>>> 4014c4fdf6e17be7298d8e0883dc07fe77f8c506
+
 
 
 
